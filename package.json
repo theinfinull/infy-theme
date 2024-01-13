@@ -1,0 +1,80 @@
+{
+  "name": "infy",
+  "displayName": "Infy",
+  "description": "Modern and minimal theme for vs-code ✨!",
+  "version": "1.0.0",
+  "publisher": "infinull",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Infi-null-0/infy-theme"
+  },
+  "keywords": [
+    "dark",
+    "infy",
+    "infy theme",
+    "infy dark theme",
+    "dark theme",
+    "cobalt",
+    "onedark",
+    "vs code",
+    "vs",
+    "theme",
+    "clean"
+  ],
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Clean UI Cobalt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cobalt-color-theme.json"
+      },
+      {
+        "label": "Clean UI Deep Sea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deep-Sea-color-theme.json"
+      },
+      {
+        "label": "Clean UI Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-color-theme.json"
+      },
+      {
+        "label": "Clean UI Dark + ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darker-color-theme.json"
+      },
+      {
+        "label": "Clean UI Galactic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Galactic-color-theme.json"
+      },
+      {
+        "label": "Clean UI Mystic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-color-theme.json"
+      },
+      {
+        "label": "Clean UI Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean-color-theme.json"
+      },
+      {
+        "label": "Clean UI Stone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stone-color-theme.json"
+      },
+      {
+        "label": "Clean UI Vintage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vintage-color-theme.json"
+      }
+    ]
+  },
+  "icon": "logo.png"
+}
