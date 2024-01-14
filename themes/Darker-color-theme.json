@@ -134,7 +134,7 @@
 		"textLink.activeForeground": "#4daafc",
 		"textLink.foreground": "#4daafc",
 		"textPreformat.background": "#3c3c3c",
-		"textPreformat.foreground": "#37373c",
+		"textPreformat.foreground": "#cccccc", // inline code
 		"textSeparator.foreground": "#21262d",
 		"titleBar.activeBackground": "#121212",
 		"titleBar.activeForeground": "#c0c0c0",
