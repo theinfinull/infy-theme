@@ -30,47 +30,47 @@
   "contributes": {
     "themes": [
       {
-        "label": "Clean UI Cobalt",
+        "label": "Infy Cobalt",
         "uiTheme": "vs-dark",
         "path": "./themes/Cobalt-color-theme.json"
       },
       {
-        "label": "Clean UI Deep Sea",
+        "label": "Infy Deep Sea",
         "uiTheme": "vs-dark",
         "path": "./themes/Deep-Sea-color-theme.json"
       },
       {
-        "label": "Clean UI Dark",
+        "label": "Infy Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-color-theme.json"
       },
       {
-        "label": "Clean UI Dark + ",
+        "label": "Infy Dark + ",
         "uiTheme": "vs-dark",
         "path": "./themes/Darker-color-theme.json"
       },
       {
-        "label": "Clean UI Galactic",
+        "label": "Infy Galactic",
         "uiTheme": "vs-dark",
         "path": "./themes/Galactic-color-theme.json"
       },
       {
-        "label": "Clean UI Mystic",
+        "label": "Infy Mystic",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystic-color-theme.json"
       },
       {
-        "label": "Clean UI Ocean",
+        "label": "Infy Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/Ocean-color-theme.json"
       },
       {
-        "label": "Clean UI Stone",
+        "label": "Infy Stone",
         "uiTheme": "vs-dark",
         "path": "./themes/Stone-color-theme.json"
       },
       {
-        "label": "Clean UI Vintage",
+        "label": "Infy Vintage",
         "uiTheme": "vs-dark",
         "path": "./themes/Vintage-color-theme.json"
       }
