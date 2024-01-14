@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/stargazers"><img src="https://img.shields.io/github/stars/Infi-null-0/infy-theme?colorA=202e35&colorB=7dc4e3&style=for-the-badge"></a>
-    <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/releases/latest"><img src="https://img.shields.io/github/release/Infi-null-0/infy-theme?colorA=202e35&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/contributors"><img src="https://img.shields.io/github/contributors/Infi-null-0/infy-theme?colorA=202e35&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/Infi-null-0/infy-theme/stargazers"><img src="https://img.shields.io/github/stars/Infi-null-0/infy-theme?colorA=202e35&colorB=7dc4e3&style=for-the-badge"></a>
+    <a href="https://github.com/Infi-null-0/infy-theme/releases/latest"><img src="https://img.shields.io/github/release/Infi-null-0/infy-theme?colorA=202e35&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/Infi-null-0/infy-theme/contributors"><img src="https://img.shields.io/github/contributors/Infi-null-0/infy-theme?colorA=202e35&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ Install the extension from a Marketplace:
 **Manual method for installation**
 
 Download the VSIX from
-[the latest GitHub release](https://raw.githubusercontent.com/Infi-null-0/infy-theme/releases/latest).
+[the latest GitHub release](https://github.com/Infi-null-0/infy-theme/releases/latest).
 Open the Command Palette and select "Extensions: Install from VSIX...", then open the file you just downloaded.
 
 ## Support
@@ -87,11 +87,11 @@ If you have any questions regarding this port, feel free to [open an issue](http
 
 **Current maintainer**
 
-- [infinull](https://raw.githubusercontent.com/Infi-null-0)
+- [infinull](https://github.com/Infi-null-0)
 
 **Mentions**
 
-- inspired by [Catppuccin](https://raw.githubusercontent.com/catppuccin) 🐈‍⬛
+- inspired by [Catppuccin](https://github.com/catppuccin) 🐈‍⬛
 <!-- 
 **Contributions**
 
