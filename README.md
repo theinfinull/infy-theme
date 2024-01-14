@@ -7,8 +7,8 @@
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/stargazers"><img src="https://img.shields.io/github/stars/Infi-null-0/infy-theme?colorA=202e35&colorB=7dc4e3&style=for-the-badge"></a>
-    <!-- <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/releases/latest"><img src="https://img.shields.io/github/release/Infi-null-0/infy-theme?colorA=202e35&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/contributors"><img src="https://img.shields.io/github/contributors/Infi-null-0/infy-theme?colorA=202e35&colorB=a6da95&style=for-the-badge"></a> -->
+    <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/releases/latest"><img src="https://img.shields.io/github/release/Infi-null-0/infy-theme?colorA=202e35&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://raw.githubusercontent.com/Infi-null-0/infy-theme/contributors"><img src="https://img.shields.io/github/contributors/Infi-null-0/infy-theme?colorA=202e35&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
