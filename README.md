@@ -64,7 +64,7 @@
 
 Install the extension from a Marketplace:
 
-- [Visual Studio Marketplace](<!-- link -->)
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=infinull.infy)
 
 **Manual method for installation**
 
