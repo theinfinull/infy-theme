@@ -38,6 +38,7 @@
 		"editor.findMatchBackground": "#9e6a03",
 		"editor.foreground": "#cccccc",
 		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.lineHighlightBackground": "#242d3788", // editor patch
 		"editor.selectionHighlightBackground": "#add6ff26",
 		"editorGroup.border": "#ffffff17",
 		"editorGroupHeader.tabsBackground": "#121823",
@@ -668,7 +669,6 @@
 		//"editor.findMatchBorder": null,
 		//"editor.findMatchHighlightBorder": null,
 		//"editor.findRangeHighlightBorder": null,
-		//"editor.lineHighlightBackground": null,
 		//"editor.rangeHighlightBorder": null,
 		//"editor.selectionForeground": null,
 		//"editor.selectionHighlightBorder": null,
