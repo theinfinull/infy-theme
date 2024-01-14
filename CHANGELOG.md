@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.0.3](https://github.com/Infi-null-0/infy-theme/releases) (14-1-2024)
+
+- **doc:** modified invalid doc links
+
 ## [2.0.2](https://github.com/Infi-null-0/infy-theme/releases) (14-1-2024)
 
 - **colors:** modified editor current line highlight 
