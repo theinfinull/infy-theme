@@ -1307,5 +1307,6 @@
 				"foreground": "#B267E6"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true
 }

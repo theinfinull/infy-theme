@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.0.4](https://github.com/Infi-null-0/infy-theme/releases) (17-1-2024)
+
+- **colors:** enabled semantic highlightling for all themes 
+
 ## [2.0.3](https://github.com/Infi-null-0/infy-theme/releases) (14-1-2024)
 
 - **doc:** modified invalid doc links
