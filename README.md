@@ -1,61 +1,61 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/infy_logo.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/transparent.png" height="30" width="0px"/>
+	<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/infy_logo.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/transparent.png" height="30" width="0px"/>
 	Infy theme <a href="https://code.visualstudio.com">VSCode</a>
-	<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/transparent.png" height="30" width="0px"/>
+	<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-    <a href="https://github.com/Infi-null-0/infy-theme/stargazers"><img src="https://img.shields.io/github/stars/Infi-null-0/infy-theme?colorA=202e35&colorB=7dc4e3&style=for-the-badge"></a>
-    <a href="https://github.com/Infi-null-0/infy-theme/releases/latest"><img src="https://img.shields.io/github/release/Infi-null-0/infy-theme?colorA=202e35&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/Infi-null-0/infy-theme/contributors"><img src="https://img.shields.io/github/contributors/Infi-null-0/infy-theme?colorA=202e35&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/theinfinull/infy-theme/stargazers"><img src="https://img.shields.io/github/stars/theinfinull/infy-theme?colorA=202e35&colorB=7dc4e3&style=for-the-badge"></a>
+    <a href="https://github.com/theinfinull/infy-theme/releases/latest"><img src="https://img.shields.io/github/release/theinfinull/infy-theme?colorA=202e35&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/theinfinull/infy-theme/contributors"><img src="https://img.shields.io/github/contributors/theinfinull/infy-theme?colorA=202e35&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/header.png" width="300px">
+  <img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/header.png" width="300px">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Collage.png" width="800px"/>
+  <img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Collage.png" width="800px"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>💎 Cobalt</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Cobalt.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Cobalt.png"/>
 </details>
 <details>
 <summary>😎 Dark</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Dark.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Dark.png"/>
 </details>
 <details>
 <summary>🕶️ Dark +</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Darker.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Darker.png"/>
 </details>
 <details>
 <summary>🪸 Deep Sea</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/DeepSea.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/DeepSea.png"/>
 </details>
 <details>
 <summary>✨ Galactic</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Galactic.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Galactic.png"/>
 </details>
 <details>
 <summary>🌃 Mystic</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Mystic.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Mystic.png"/>
 </details>
 <details>
 <summary>🌊 Ocean</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Ocean.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Ocean.png"/>
 </details>
 <details>
 <summary>🪨 Stone</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Stone.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Stone.png"/>
 </details>
 <details>
 <summary>🗝️ Vintage</summary>
-<img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/ss/Vintage.png"/>
+<img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/ss/Vintage.png"/>
 </details>
 
 ## Usage
@@ -69,12 +69,12 @@ Install the extension from a Marketplace:
 **Manual method for installation**
 
 Download the VSIX from
-[the latest GitHub release](https://github.com/Infi-null-0/infy-theme/releases/latest).
+[the latest GitHub release](https://github.com/theinfinull/infy-theme/releases/latest).
 Open the Command Palette and select "Extensions: Install from VSIX...", then open the file you just downloaded.
 
 ## Support
 
-If you have any questions regarding this port, feel free to [open an issue](https://raw.githubusercontent.com/Infi-null-0/infy-theme/issues).
+If you have any questions regarding this port, feel free to [open an issue](https://raw.githubusercontent.com/theinfinull/infy-theme/issues).
 
 ## Development
 
@@ -87,7 +87,7 @@ If you have any questions regarding this port, feel free to [open an issue](http
 
 **Current maintainer**
 
-- [infinull](https://github.com/Infi-null-0)
+- [infinull](https://github.com/theinfinull)
 
 **Mentions**
 
@@ -103,7 +103,7 @@ If you have any questions regarding this port, feel free to [open an issue](http
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Infi-null-0/infy-theme/main/images/header.png" width="300px">
+  <img src="https://raw.githubusercontent.com/theinfinull/infy-theme/main/images/header.png" width="300px">
 </p>
 
 <p align="center">Copyright &copy; 2024-present
