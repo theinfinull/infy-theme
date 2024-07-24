@@ -74,7 +74,7 @@ Open the Command Palette and select "Extensions: Install from VSIX...", then ope
 
 ## Support
 
-If you have any questions regarding this port, feel free to [open an issue](https://raw.githubusercontent.com/theinfinull/infy-theme/issues).
+If you have any questions regarding this port, feel free to [open an issue](https://github.com/theinfinull/infy-theme/issues).
 
 ## Development
 
